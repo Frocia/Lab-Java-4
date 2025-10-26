@@ -1,5 +1,5 @@
 ```markdown
-# 🎯 Лабораторная работа: Решение задач на Java
+### 🎯 Лабораторная работа: Решение задач на Java
 
 [![Java Version](https://img.shields.io/badge/Java-8%2B-blue.svg)](https://java.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
